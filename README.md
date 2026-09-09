@@ -79,7 +79,7 @@ After **StandardScaler** normalization (so no single metric dominates the distan
 
 **3.  Conversion & Campaigns** — Full conversion funnel (Visit → Purchase), cart abandonment, conversion rate by channel, revenue by campaign type.
 
-![Conversion & Campaigns page](assets/dashboard_screenshots/ 03_conversion_campaigns.png)
+![Conversion & Campaigns page](assets/dashboard_screenshots/03_conversion_campaigns.png)
 
 All DAX formulas are documented in [`dax/measures.md`](dax/measures.md).
 
